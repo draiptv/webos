@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1,CNC Buga
+http://iphone-streaming.ustream.tv/uhls/11251644/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Señal Buga
+http://iphone-streaming.ustream.tv/uhls/11492453/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,RCN
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+#EXTM3U#EXTINF:-1,Canal Uno
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+#EXTINF:-1,Senal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+#EXTINF:-1,Canal Institucional
+http://cdns840stu1010.multistream.net:80/rtvclive/live-500/PAZ.m3u8
+#EXTINF:-1,Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal TRO
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/master.m3u8
+#EXTINF:-1,Canal 13
+http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8
+#EXTINF:-1,Canal Zoom
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Teleislas
+http://cdnvideo.webvideocore.net/live3ch/out_4r27ggewzxycowws80ck/index.m3u8
+#EXTINF:-1,Nacion TV
+http://iphone-streaming.ustream.tv/uhls/20749257/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,El Tiempo Television
+http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/index_1550000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Cable Noticias
+http://50.23.173.13:1935/live/cablenoticiastv_720p/playlist.m3u8
+
+#EXTINF:-1,ANIME TV	
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,TATEti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8
+
+fox sport
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,History
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Tec TV Argentina
+http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8
+#EXTINF:-1,Teleamiga
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+#EXTINF:-1,INDAGANDO TV
+http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TV Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
+
+#EXTINF:-1,Peliculas en Español
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1,neox
+http://a3live-lh.akamaihd.net/i/neox/neox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,6
+http://k3.usastreams.com:1935/cana6/cana6/chunklist_w1381079225.m3u8
+#EXTINF:-1,mega
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,univision
+http://209.133.201.162:1935/app/turbomaxhds-channel/playlist.m3u8
+#EXTINF:-1,mundo Max
+http://198.178.123.173:1935/app/ana69s-channel/playlist.m3u8
+#EXTINF:-1,tele arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/chunklist_w1852301783.m3u8
+
+#EXTINF:-1,Videos 3D
+http://hdmedia3d.vintera.tv:1935/hdmedia3d//hdmedia3d.stream/playlist.m3u8
